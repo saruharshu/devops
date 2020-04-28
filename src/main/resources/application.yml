@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: devops-cicd
+
+server:
+  port: 8090
+
